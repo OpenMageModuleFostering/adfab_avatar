@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Adfab_Avatar",
+    "name": "OpenMageModuleFostering\/Adfab_Avatar",
     "type": "magento-module",
-    "license": "http://opensource.org/licenses/osl-3.0.php-Academic-Free-License-(AFL)",
+    "license": "http:\/\/opensource.org\/licenses\/osl-3.0.php-Academic-Free-License-(AFL)",
     "homepage": "",
     "description": "Give your customers the opportunity to personalize their account by uploading an avatar.",
     "authors": [
-    {
-        "name": "Adfab",
-        "email": "dev@adfab.fr"
-    }
-],
+        {
+            "name": "Adfab",
+            "email": "dev@adfab.fr"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
